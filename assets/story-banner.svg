@@ -1,0 +1,18 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1f71"/>
+      <stop offset="100%" stop-color="#6a42ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#s)"/>
+  <circle cx="920" cy="250" r="170" fill="#7affd4" opacity="0.18"/>
+  <text x="90" y="280" fill="#ffffff" font-size="120" font-family="Arial" font-weight="700">NOVA</text>
+  <text x="90" y="390" fill="#d4d7ff" font-size="72" font-family="Arial">DIGITAL MARKET BOT</text>
+  <text x="90" y="720" fill="#ffffff" font-size="64" font-family="Arial">• Фото и файлы</text>
+  <text x="90" y="820" fill="#ffffff" font-size="64" font-family="Arial">• Игровые аккаунты</text>
+  <text x="90" y="920" fill="#ffffff" font-size="64" font-family="Arial">• Донаты и услуги</text>
+  <rect x="90" y="1170" width="900" height="180" rx="34" fill="#7affd4"/>
+  <text x="540" y="1280" text-anchor="middle" fill="#1d215f" font-size="82" font-family="Arial" font-weight="700">1 NOVA = 15 ₽</text>
+  <text x="90" y="1570" fill="#cfd3ff" font-size="52" font-family="Arial">Запуск: @your_bot_username</text>
+</svg>
