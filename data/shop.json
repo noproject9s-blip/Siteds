@@ -1,0 +1,24 @@
+{
+  "users": {},
+  "items": [
+    {
+      "id": 1,
+      "title": "Пак HD обоев",
+      "category": "Фото",
+      "description": "50 премиум-обоев 4K",
+      "price": 10,
+      "stock": 20,
+      "payload": "Ссылка: https://example.com/wallpapers"
+    },
+    {
+      "id": 2,
+      "title": "Аккаунт RPG",
+      "category": "Игровой аккаунт",
+      "description": "Прокачанный аккаунт 65 lvl",
+      "price": 80,
+      "stock": 3,
+      "payload": "Логин: demo_user | Пароль: demo_pass"
+    }
+  ],
+  "last_item_id": 2
+}
